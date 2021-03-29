@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.8663234b.chunk.js",
+    "main.js.map": "/static/js/main.8663234b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72ecf992.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72ecf992.js.map",
+    "static/js/2.84d33637.chunk.js": "/static/js/2.84d33637.chunk.js",
+    "static/js/2.84d33637.chunk.js.map": "/static/js/2.84d33637.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.84d33637.chunk.js.LICENSE.txt": "/static/js/2.84d33637.chunk.js.LICENSE.txt",
+    "static/media/Roboto.59d18e16.woff": "/static/media/Roboto.59d18e16.woff",
+    "static/media/Roboto.806e04d8.woff2": "/static/media/Roboto.806e04d8.woff2",
+    "static/media/Roboto.ecf539e1.ttf": "/static/media/Roboto.ecf539e1.ttf",
+    "static/media/Robotolight.25d47456.ttf": "/static/media/Robotolight.25d47456.ttf",
+    "static/media/Robotolight.8c9edc30.woff": "/static/media/Robotolight.8c9edc30.woff",
+    "static/media/Robotolight.95ff440a.woff2": "/static/media/Robotolight.95ff440a.woff2",
+    "static/media/gitrepos.eb234be6.png": "/static/media/gitrepos.eb234be6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72ecf992.js",
+    "static/js/2.84d33637.chunk.js",
+    "static/js/main.8663234b.chunk.js"
+  ]
+}
